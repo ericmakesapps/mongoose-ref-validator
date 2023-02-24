@@ -1,1 +1,1 @@
-module.exports = require('./lib/id-validator');
+module.exports = require("./lib/ref-validator")
